@@ -65,12 +65,11 @@ namespace calculator_task_2
 
         static double Divide(double x, double y)
         {
-            double r = x / y;
-            if (y == 0);
+            if (y == 0)
             {
-                throw new DivideByZeroException("Деление на ноль");
+                throw new DivideByZeroException("На ноль делить нельзя");
             }
-            return x / y;
+            return x / y;              
         }
         static double Multiply(double x, double y)
         {
