@@ -1,0 +1,15 @@
+C:\coding tasks\WPF-Calculator_task-3\bin\Debug\WPF-Calculator_task-3.exe.config
+C:\coding tasks\WPF-Calculator_task-3\bin\Debug\WPF-Calculator_task-3.exe
+C:\coding tasks\WPF-Calculator_task-3\bin\Debug\WPF-Calculator_task-3.pdb
+C:\coding tasks\WPF-Calculator_task-3\obj\Debug\WPF-Calculator_task-3.csprojAssemblyReference.cache
+C:\coding tasks\WPF-Calculator_task-3\obj\Debug\MainWindow.g.cs
+C:\coding tasks\WPF-Calculator_task-3\obj\Debug\App.g.cs
+C:\coding tasks\WPF-Calculator_task-3\obj\Debug\WPF-Calculator_task-3_MarkupCompile.cache
+C:\coding tasks\WPF-Calculator_task-3\obj\Debug\WPF-Calculator_task-3_MarkupCompile.lref
+C:\coding tasks\WPF-Calculator_task-3\obj\Debug\MainWindow.baml
+C:\coding tasks\WPF-Calculator_task-3\obj\Debug\WPF-Calculator_task-3.g.resources
+C:\coding tasks\WPF-Calculator_task-3\obj\Debug\WPF_Calculator_task_3.Properties.Resources.resources
+C:\coding tasks\WPF-Calculator_task-3\obj\Debug\WPF-Calculator_task-3.csproj.GenerateResource.cache
+C:\coding tasks\WPF-Calculator_task-3\obj\Debug\WPF-Calculator_task-3.csproj.CoreCompileInputs.cache
+C:\coding tasks\WPF-Calculator_task-3\obj\Debug\WPF-Calculator_task-3.exe
+C:\coding tasks\WPF-Calculator_task-3\obj\Debug\WPF-Calculator_task-3.pdb
