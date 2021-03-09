@@ -1,0 +1,13 @@
+C:\coding tasks\Time-Converter\bin\Debug\netcoreapp3.1\Time-Converter.exe
+C:\coding tasks\Time-Converter\bin\Debug\netcoreapp3.1\Time-Converter.deps.json
+C:\coding tasks\Time-Converter\bin\Debug\netcoreapp3.1\Time-Converter.runtimeconfig.json
+C:\coding tasks\Time-Converter\bin\Debug\netcoreapp3.1\Time-Converter.runtimeconfig.dev.json
+C:\coding tasks\Time-Converter\bin\Debug\netcoreapp3.1\Time-Converter.dll
+C:\coding tasks\Time-Converter\bin\Debug\netcoreapp3.1\Time-Converter.pdb
+C:\coding tasks\Time-Converter\obj\Debug\netcoreapp3.1\Time-Converter.csprojAssemblyReference.cache
+C:\coding tasks\Time-Converter\obj\Debug\netcoreapp3.1\Time-Converter.AssemblyInfoInputs.cache
+C:\coding tasks\Time-Converter\obj\Debug\netcoreapp3.1\Time-Converter.AssemblyInfo.cs
+C:\coding tasks\Time-Converter\obj\Debug\netcoreapp3.1\Time-Converter.csproj.CoreCompileInputs.cache
+C:\coding tasks\Time-Converter\obj\Debug\netcoreapp3.1\Time-Converter.dll
+C:\coding tasks\Time-Converter\obj\Debug\netcoreapp3.1\Time-Converter.pdb
+C:\coding tasks\Time-Converter\obj\Debug\netcoreapp3.1\Time-Converter.genruntimeconfig.cache
